@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigationToday"
+        android:icon="@drawable/calendar"
+        android:title="@string/today" />
+
+    <item
+        android:id="@+id/navigationAccount"
+        android:title="@string/account"
+        android:icon="@drawable/user"/>
+
+    <item
+        android:id="@+id/navigationSettings"
+        android:title="@string/settings"
+        android:icon="@drawable/settings" />
+
+
+
+</menu>

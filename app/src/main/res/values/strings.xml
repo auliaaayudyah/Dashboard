@@ -1,0 +1,20 @@
+<resources>
+    <style name="AppTheme." parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <string name="app_name">Numpak.yuk</string>
+    <string name="today">Today</string>
+    <string name="exercises">exercises</string>
+    <string name="transportation">Transportation</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+    <string name="book_your_trip">Book Your Trip</string>
+    <string name="search">Search</string>
+    <string name="train">Train</string>
+    <string name="bus">Bus</string>
+    <string name="air_plane">Air Plane</string>
+    <string name="hotel">Hotel</string>
+</resources>
